@@ -1,0 +1,81 @@
+.full-menu{
+    background-color: blue;
+    border: 5px dotted red;
+    height: 30px;
+
+}
+.menu-logo{
+border: 2px solid ;
+width: 20%;
+background-color: rgb(30, 255, 0);
+box-sizing: border-box;
+float: left;
+height: 100%;
+text-align: center;
+
+}
+.menu-side-ber{
+    border: 2px solid ;
+    width: 30%;
+    background-color: rgb(233, 12, 119);
+    float: right;
+    box-sizing: border-box;
+    height: 100%;
+    text-align: center;
+}
+.nav{
+    background-color: rgb(191, 240, 13);
+    text-align: center;
+    border: 3px solid red;
+    height: 30px;
+    text-align: center;
+}
+.contant-area{
+    width: 100%;
+    background-color: rgb(21, 0, 255);
+    box-sizing: border-box;
+    height: 200px;
+    float: left;
+    border: 3px dashed red;
+    
+}
+.left-side-contant{
+    width: 30%;
+    border: 2px solid rgb(173, 47, 6);
+    height: 100%;
+    box-sizing: border-box;
+    float: left;
+    clear: right;
+    background-color: aquamarine;
+}
+.right-side-contant{
+    width: 50%;
+    border: 2px solid red;
+    height: 100%;
+    box-sizing: border-box;
+    clear: right;
+    float: left;
+    background-color: blueviolet;
+
+}
+.right-side-contant-top{
+    border: 2px solid red;
+    height: 50%;
+}
+.right-side-contant-bottom{
+    width: 100%;
+    height: 50%;
+}
+.right-side-contant-asaid{
+    width: 20%;
+    border: 2px solid red;
+    height: 80%;
+    box-sizing: border-box;
+    float: right;
+    background-color: brown;
+}
+.footer{
+    background-color: red;
+    color: white;
+    
+}
